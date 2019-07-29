@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculator {
 	
 	public static int add(int x, int y) {
-		pass x+y;
+		return x+y;
 	}
 	
 	public static int subtract(int x, int y) {
@@ -15,7 +15,7 @@ public class Calculator {
 	}
 	
 	public static int divide(int x, int y) {
-		pass x/y;
+		return x/y;
 	}
 	
 	public static void main(String[] args) {
