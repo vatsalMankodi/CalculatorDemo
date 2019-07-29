@@ -2,3 +2,4 @@
 project.py
 mytest.pyc
 authorized
+.gitignore
