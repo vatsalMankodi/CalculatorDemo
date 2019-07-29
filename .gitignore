@@ -1,0 +1,4 @@
+*.tmp
+project.py
+mytest.pyc
+authorized
