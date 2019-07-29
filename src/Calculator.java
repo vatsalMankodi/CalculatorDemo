@@ -23,7 +23,7 @@ public class Calculator {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		
-		System.out.println(add(a,b));
+		System.out.println("Addition of 1 and 2 is :"+add(1,2));
 	}
 	
 }
