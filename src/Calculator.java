@@ -15,7 +15,7 @@ public class Calculator {
 	}
 	
 	public static int divide(int x, int y) {
-		return x/y;
+		pass x/y;
 	}
 	
 	public static void main(String[] args) {
